@@ -19,7 +19,6 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://ghorid.github.io/DongBTI/",
   "eslintConfig": {
     "extends": [
       "react-app",
