@@ -1,0 +1,5 @@
+div.h-full.w-full.bg-cover{
+    background-image: url(../../public/images/startPageBgImg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
