@@ -1,7 +1,7 @@
 <h1>동BTI 프로그램</h1>
 
 - 전남대학교 총동아리연합회 하반기 알림아리 콘텐츠 동BTI 테스트
-- 빙고판 미션 중 동BTI 테스트
+- 빙고판 미션 동BTI 테스트
 - https://jnu-yeon-dongbti.netlify.app/
 
 ---
